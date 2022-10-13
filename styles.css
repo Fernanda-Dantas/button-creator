@@ -20,7 +20,7 @@ label {
 .titulo-site {
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 1.3rem;
-    color: #A65353;
+    color: #BF0426;
 }
 
 
@@ -44,6 +44,7 @@ label {
 
 .css {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
     color: #333;
     margin-top: 40px;
     display: flex;
@@ -53,7 +54,11 @@ label {
 .css span {
     display: block;
     margin-bottom: 0 0 .5rem 0;
-    
+}
+
+.resultado {
+    text-align: center;
+    padding-top: 10rem;
 }
 
 .footer {
@@ -66,6 +71,6 @@ label {
 
 .footer a {
     text-decoration: none;
-    color: #A65353;
+    color: #BF0426;
     font-weight: bold;
 }
