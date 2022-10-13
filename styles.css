@@ -1,6 +1,6 @@
 body {
     margin: 0px;
-    background: #ccc;
+    background: #FFE2DF;
 }
 
 label {
@@ -21,7 +21,7 @@ label {
 #controles {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: .875rem;
-    background: #eee;
+    background: #FFFFFF;
     padding: 1rem;
     border-radius: 4px;
     box-shadow: 2px 2px 2px 0 rgba(0,0,0,.1);
@@ -41,3 +41,4 @@ label {
     margin-bottom: 0 0 .5rem 0;
     
 }
+
