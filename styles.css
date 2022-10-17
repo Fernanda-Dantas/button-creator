@@ -21,6 +21,7 @@ label {
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 1.3rem;
     color: #BF0426;
+    text-shadow: 3px 3px 6px black;
 }
 
 
@@ -29,6 +30,16 @@ label {
     grid-gap: 10px;
     padding: 30px;
     grid-template-columns: 200px 1fr;
+
+}
+
+.button-creator-right {
+    display: grid;
+    grid-gap: 10px;
+    padding: 30px;
+    grid-template-columns: 200px 1fr 1fr 2fr;
+
+
 }
 
 
