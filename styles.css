@@ -18,12 +18,16 @@ label {
 }
 
 .titulo-site {
+  display: flex;
     font-family: 'Noto Sans JP', sans-serif;
     font-size: 1.3rem;
     color: #BF0426;
     text-shadow: 3px 3px 6px black;
 }
 
+h1:hover {
+  cursor: pointer;
+}
 
 .button-creator {
     display: grid;
