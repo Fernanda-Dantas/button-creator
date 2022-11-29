@@ -4,7 +4,6 @@ const btn = document.querySelector('.btn');
 
 controles.addEventListener('change', handleChange)
 
-
 const handleStyle = {
     element: btn,
     backgroundColor(value) {
@@ -36,6 +35,9 @@ const handleStyle = {
     },
     hover(value) {
         this.element.style.hover = value;
+    },
+    cursor(value) {
+        this.element.style.cursor = value;
     }
 }
 
