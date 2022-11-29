@@ -34,6 +34,9 @@ const handleStyle = {
     fontSize(value) {
         this.element.style.fontSize = value + 'rem';
     },
+    hover(value) {
+        this.element.style.hover = value;
+    }
 }
 
 function handleChange(event) {
